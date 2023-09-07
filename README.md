@@ -53,12 +53,14 @@ Linguagem C/C++
 - https://www.youtube.com/playlist?list=PLx4x_zx8csUjczg1qPHavU1vw1IkBcm40 (Curso de |C++| completo)
 
 FRAMEWORKS FRONT-END (Angular, React e Vue)
-- https://www.youtube.com/playlist?list=PLnDvRpP8BneyVA0SZ2okm-QBojomniQVO
-- https://www.youtube.com/playlist?list=PLx4x_zx8csUh752BVDGZkxYpY9lS40fyC
-- https://www.youtube.com/playlist?list=PLWXw8Gu52TRK1W0emFvUl3ozgV2JW3_8p
-- https://www.youtube.com/playlist?list=PLnDvRpP8Bnex2GQEN0768_AxZg_RaIGmw
-- https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBoSRcKWEdQACbUCNWLczg2G
-- https://www.youtube.com/playlist?list=PLqsayW8DhUmvtNlkDqYj99X73ts9FLK7j
+- https://www.youtube.com/playlist?list=PLnDvRpP8BneyVA0SZ2okm-QBojomniQVO (React)
+- https://www.youtube.com/playlist?list=PLx4x_zx8csUh752BVDGZkxYpY9lS40fyC (React)
+- https://www.youtube.com/playlist?list=PLWXw8Gu52TRK1W0emFvUl3ozgV2JW3_8p (React Basico)
+- https://www.youtube.com/playlist?list=PLnDvRpP8Bnex2GQEN0768_AxZg_RaIGmw (Angular)
+- https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBoSRcKWEdQACbUCNWLczg2G (Angular)
+- https://www.youtube.com/playlist?list=PLqsayW8DhUmvtNlkDqYj99X73ts9FLK7j (Angular)
+- https://www.youtube.com/playlist?list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL (Vue)
+- https://www.youtube.com/playlist?list=PLcoYAcR89n-qTYqfWTGxXMnAvCqY3JF8w (Vue)
 
 REDES E COMPUTADORES 
 - https://www.youtube.com/playlist?list=PLPp3g7TxayKxEiA8v1U_CEvVAk1zlg5JA (Univesp)
