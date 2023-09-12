@@ -15,7 +15,6 @@ UX/UI :
 - https://www.youtube.com/playlist?list=PLwgL9IEA0PxXzmOu0crRl9l6PT46nqtI9 (Curso de FIgma Grátis - Tutorial Completo)
 - https://www.youtube.com/playlist?list=PLtNBjTkgoUXxu6Mlmqx0XC3Bhl368wxA6 (Curso de FIgma)
 
-
 Python :
 - https://www.youtube.com/playlist?list=PLx4x_zx8csUhuVgWfy7keQQAy7t1J35TR (Curso de Python Cfb-Cursos)
 - https://www.youtube.com/playlist?list=PLifTOxQosMmOm41Q7to4alyu6vTwJOgjY (Sistema de gerenciamento com Python)
@@ -37,6 +36,9 @@ HTML/CSS :
 - https://www.youtube.com/playlist?list=PLwXQLZ3FdTVFi6oHo_K4IYDcwCU5-f1x5 (Design Responsivo)
 - https://www.youtube.com/playlist?list=PL2Fdisxwzt_cajoGVWTx44wM6Ht09QJ3A (Curso de HTML)
 - https://www.youtube.com/playlist?list=PL2Fdisxwzt_f5C7Mv0kg1EAHhy2VJLf1c (Curso de CSS)
+- https://www.youtube.com/playlist?list=PLcoYAcR89n-r1m-tMfV4qndrRWpT_rb9u (Curso de TailwindCSS)
+- https://www.youtube.com/playlist?list=PLHWqqMuiIEutT2iTG_s6HM50MdGJDu3y2 (Arquitetura CSS)
+- https://www.youtube.com/playlist?list=PLnDvRpP8Bnexu5wvxogy6N49_S5Xk8Cze (Curso de Bootstrap)
 
 JAVASCRIPT : 
 - https://www.youtube.com/playlist?list=PLm-VCNNTu3LnlPhqxx03kvjQd3qF6EBdz (Javascript para iniciantes)
@@ -74,3 +76,17 @@ RUBY
 - https://www.youtube.com/@rubyverso/featured (É O MANO DEYVIN)
 - https://www.youtube.com/playlist?list=PLnV7i1DUV_zOit4a_tEDf1_PcRd25dL7e (Ruby para iniciantes)
 - https://www.youtube.com/playlist?list=PLdDT8if5attEOcQGPHLNIfnSFiJHhGDOZ (Curso de ruby)
+
+JAVA
+- https://www.youtube.com/@cursodetecnologia (Canal voltado a java e a dicas de carreiras, mostrando a realidade das coisas!)
+- https://www.youtube.com/playlist?list=PLJIP7GdByOyuBKB--fIO2DoQaPVXm9lCw (Projeto em Java)
+- https://www.youtube.com/playlist?list=PLJ0AcghBBWSi6nK2CUkw9ngvwWB1gE8mL (Curso de Java)
+- https://www.youtube.com/playlist?list=PLx4x_zx8csUjFC5WWjoNUL7LOOD7LCKRW (Curso de Java)
+- https://www.youtube.com/playlist?list=PLGPluF_nhP9p6zWTN88ZJ1q9J_ZK148-f (Curso 1 de java: Estruturado)
+- https://www.youtube.com/playlist?list=PLGPluF_nhP9oNl6vAwapJNqkWA8_CxRuy (Curso 2 de java : POO)
+
+JAVA COM SPRING E SPRING BOOT 
+- https://www.youtube.com/playlist?list=PLWXw8Gu52TRI0usqoSTLrioF6NPp-3msb (Apis com Spring Boot - 2022)
+- https://www.youtube.com/playlist?list=PLiXotHlANc8ptwP6wajo73OZo9Nh5i597 (Curso API RESTful com Spring Boot 2022 - java web)
+- https://www.youtube.com/playlist?list=PL0j7juv7l4HgSY7gNDzNQjgwEA5s4hzjx (Curso Spring Boot)
+- loiane angular e java
