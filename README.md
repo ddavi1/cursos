@@ -4,7 +4,7 @@
 ### Link abaixo para o mapa mental de canais gratuitos de programação (por favor não edite nada no mapa mental) :
 https://mm.tt/app/map/2728919593?t=N9q62Xw2xC
 
-### Menção honrosa ao Gustavo Guanabara que tem cursos de diversas linguagens de programação, redes, hardware e até mesmo de inglês: 
+### Menção honrosa ao Gustavo Guanabara que tem cursos de diversas linguagens de programação, redes, hardware e até mesmo LOGICA DE PROGRAMAÇÃO: 
 https://www.youtube.com/@CursoemVideo/videos
 
 ### Link de variados cursos gratuitos de programação (front-end, back-end, mobile, infra, hardware)
