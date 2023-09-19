@@ -117,6 +117,7 @@ PHP
 - https://www.youtube.com/playlist?list=PLXik_5Br-zO9wODVI0j58VuZXkITMf7gZ (PHP 8 completo)
 - https://www.youtube.com/playlist?list=PLXik_5Br-zO8vLD6X9uB-EH6BpgZL8XBH (API com PHP basico ao avançado)
 - https://www.youtube.com/playlist?list=PLcFgBohD43NrNFopAwTBuBfIGY5NzHp_g (API RESTfull com php puro)
+- https://www.youtube.com/playlist?list=PLnDvRpP8BnewYKI1n2chQrrR4EYiJKbUG (Laravel framework PHP)
 
 .NET C#
 - https://www.youtube.com/playlist?list=PLs3yd28pfby7WLEdA7GXey47cKZKMrcwS (Curso .NET)
