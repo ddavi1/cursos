@@ -1,4 +1,4 @@
-# cursos
+# CURSOS
 ### Cursos de programação, com um link para um mapa mental de canais com conteudo gratuitos no youtube
 
 ### Link abaixo para o mapa mental de canais gratuitos de programação (por favor não edite nada no mapa mental) :
@@ -77,6 +77,7 @@ FRAMEWORKS FRONT-END (Angular, React e Vue)
 - https://www.youtube.com/playlist?list=PLqsayW8DhUmvtNlkDqYj99X73ts9FLK7j (Angular)
 - https://www.youtube.com/playlist?list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL (Vue)
 - https://www.youtube.com/playlist?list=PLcoYAcR89n-qTYqfWTGxXMnAvCqY3JF8w (Vue)
+- https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBoSRcKWEdQACbUCNWLczg2G (Angular com loiane groner)
 
 TYPESCRIPT
 - https://www.youtube.com/playlist?list=PLb2HQ45KP0Wsk-p_0c6ImqBAEFEY-LU9H (do ZERO ao to HERO)
@@ -103,6 +104,7 @@ JAVA COM SPRING E SPRING BOOT
 - https://www.youtube.com/playlist?list=PLWXw8Gu52TRI0usqoSTLrioF6NPp-3msb (Apis com Spring Boot - 2022)
 - https://www.youtube.com/playlist?list=PLiXotHlANc8ptwP6wajo73OZo9Nh5i597 (Curso API RESTful com Spring Boot 2022 - java web)
 - https://www.youtube.com/playlist?list=PL0j7juv7l4HgSY7gNDzNQjgwEA5s4hzjx (Curso Spring Boot)
+- https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBpwaVgAPxTxhdX_TfSVlTcY (CRUD angular+spring com loiane groner)
 
 SQL
 - https://www.youtube.com/playlist?list=PLpdAy0tYrnKw_F8v6kkEXTeyE33Navv-K(Curso Basico de SQL)
