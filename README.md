@@ -1,7 +1,7 @@
 # CURSOS
 ### Cursos de programação, com um link para um mapa mental de canais com conteudo gratuitos no youtube
 
-### Link abaixo para o mapa mental de canais gratuitos de programação (por favor não edite nada no mapa mental) :
+### Link abaixo para o mapa mental de canais gratuitos de programação, abaixo tem uma foto do que tem no mapa! (por favor não edite nada no mapa mental) :
 https://mm.tt/app/map/2728919593?t=N9q62Xw2xC
 
 ### Menção honrosa ao Gustavo Guanabara que tem cursos de diversas linguagens de programação, redes, hardware e até mesmo LOGICA DE PROGRAMAÇÃO: 
@@ -146,3 +146,5 @@ NODEJS
 - https://www.youtube.com/playlist?list=PLJ_KhUnlXUPtbtLwaxxUxHqvcNQndmI4B (Curso de nodeJS basico)
 - https://www.youtube.com/playlist?list=PLx4x_zx8csUjFC41ev2qX5dnr-0ThpoXE (Curso de nodeJS cfb)
 - https://www.youtube.com/playlist?list=PLWXw8Gu52TRLBgfIclx1Nh8LA60knsxY9 (Curso de nodeJS basico ralf)
+
+![image](https://github.com/ddavi1/cursos/assets/111084142/1a58ff45-81f2-4b45-a52f-468bcf0fba1c)
