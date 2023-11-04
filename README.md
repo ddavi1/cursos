@@ -146,5 +146,6 @@ NODEJS
 - https://www.youtube.com/playlist?list=PLJ_KhUnlXUPtbtLwaxxUxHqvcNQndmI4B (Curso de nodeJS basico)
 - https://www.youtube.com/playlist?list=PLx4x_zx8csUjFC41ev2qX5dnr-0ThpoXE (Curso de nodeJS cfb)
 - https://www.youtube.com/playlist?list=PLWXw8Gu52TRLBgfIclx1Nh8LA60knsxY9 (Curso de nodeJS basico ralf)
+- https://www.youtube.com/playlist?list=PLWXw8Gu52TRI5NJmexwA9qco33goFxbHK (Curso de nodeJS atualizado ralf lima)
 
 ![image](https://github.com/ddavi1/cursos/assets/111084142/1a58ff45-81f2-4b45-a52f-468bcf0fba1c)
