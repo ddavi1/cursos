@@ -99,6 +99,14 @@ JAVA
 - https://www.youtube.com/playlist?list=PLx4x_zx8csUjFC5WWjoNUL7LOOD7LCKRW (Curso de Java)
 - https://www.youtube.com/playlist?list=PLGPluF_nhP9p6zWTN88ZJ1q9J_ZK148-f (Curso 1 de java: Estruturado)
 - https://www.youtube.com/playlist?list=PLGPluF_nhP9oNl6vAwapJNqkWA8_CxRuy (Curso 2 de java : POO)
+- https://www.youtube.com/playlist?list=PLvtOeOw_Op8nIcKrhklCNg09COWrStAwJ (JAVA - Sintaxe Básica)
+- https://www.youtube.com/playlist?list=PL9p_J5fD742H7i5-vPSy0Bg12ceVRYs6- (Curso de  JAVA 2023)
+- https://www.youtube.com/playlist?list=PLxuFqIk29JL25N6PMMCAyRRx7elYsDbsB (Fundamentos de POO com Java)
+- https://www.youtube.com/playlist?list=PL0YuSuacUEWtnWE0zVGKw3qDcEJEpNeZb (POO com Java)
+- https://www.youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW (Maratona Java Virado no Jiraya)
+- https://www.youtube.com/playlist?list=PLlU8n-EfbwVorPifzJjjsCMjEwpFaLQSJ (Poo - Java)
+
+
 
 JAVA COM SPRING E SPRING BOOT 
 - https://www.youtube.com/playlist?list=PLWXw8Gu52TRI0usqoSTLrioF6NPp-3msb (Apis com Spring Boot - 2022)
